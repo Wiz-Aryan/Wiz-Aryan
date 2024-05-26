@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Wiz-Aryan
-- 👀 I’m interested in HTML, PHP, Python
-- 🌱 I’m currently learning web development
-- 📫 How to reach me aryanshinde.in
+
 
 
 <!---
